@@ -1,0 +1,2 @@
+# Multicoin
+Multicoin faucet
